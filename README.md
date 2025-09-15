@@ -38,6 +38,11 @@ O sistema será desenvolvido utilizando uma arquitetura baseada em microssservi�
 - **Banco de Dados:** **PostgreSQL** para persistência de dados.
 - **Integração com APIs Externas:** Google Maps API/Places API para geolocalização e rotas.
 
+
+### Link do Figma:
+
+https://www.figma.com/design/jvcID6f9Ls8jKJ3cisPKGO/EcoTour-Fortaleza---Prot%C3%B3tipos?node-id=15-10183&m=dev&t=nFmJZ7UaovwJZLHo-1
+
 ### Diagrama de Arquitetura Simplificado:
 
 ```mermaid
