@@ -34,7 +34,7 @@ Um aplicativo que oferece:
 O sistema será desenvolvido utilizando uma arquitetura baseada em microssserviços, com as seguintes camadas:
 
 - **Frontend:** Aplicação móvel desenvolvida em **React Native** e versão web em **React**.
-- **Backend:** API RESTful construída com **Node.js** e **Express**.
+- **Backend:** API RESTful construída com **Java**
 - **Banco de Dados:** **PostgreSQL** para persistência de dados.
 - **Integração com APIs Externas:** Google Maps API/Places API para geolocalização e rotas.
 
