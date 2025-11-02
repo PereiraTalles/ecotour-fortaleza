@@ -29,12 +29,12 @@ Um aplicativo que oferece:
 | Milene de Souza Júnior | 2326165 | Designer UX/UI & Documentadora |
 | Herison Daniel Wanderley | 2315221 | Especialista em Dados & APIs |
 
-## 🏗️ 4. Visão Geral da Arquitetura
+##  4. Visão Geral da Arquitetura
 
 O sistema será desenvolvido utilizando uma arquitetura baseada em microssserviços, com as seguintes camadas:
 
 - **Frontend:** Aplicação móvel desenvolvida em **React Native** e versão web em **React**.
-- **Backend:** API RESTful construída com **Java**
+- **Backend:** API RESTful construída com **Node.js** e **Express**
 - **Banco de Dados:** **PostgreSQL** para persistência de dados.
 - **Integração com APIs Externas:** Google Maps API/Places API para geolocalização e rotas.
 
